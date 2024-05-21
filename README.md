@@ -1,1 +1,1 @@
-A 2D football game .
+A 2D football game.
